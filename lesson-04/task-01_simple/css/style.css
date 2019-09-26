@@ -1,0 +1,10 @@
+div {max-width: 760px; margin: auto;}
+main {max-width: 760px; margin: auto; font-size: 18px;}
+footer { background-color: #000000; color: #FFFFFF; text-align: center; font-size: 20px;}
+h1 { background-color: #A52A2A; text-align: center; color: #FFFFFF;}
+header img {max-height: 250px; max-width: 100%;}
+.cars { display: flex; justify-content: center; flex-wrap: wrap}
+ul, li { display: block; }
+.cars li { outline-style: dashed; margin: 10px } 
+.quis { font-style: italic; color: #0000FF;}
+.color { color: #0000FF;}
