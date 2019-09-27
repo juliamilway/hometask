@@ -2,6 +2,7 @@ body{
     background-color: rgb(154,9,9);
     margin: 0;
     align-items: center;
+    box-sizing: border-box;
 }
 .main{
     width: 944px;
@@ -48,8 +49,8 @@ td{
     align-items: center;
 }
 .content{
-    height: 291px;
     display: flex;
+    /* overflow: hidden; */
 }
 .left{
     width: 202px;
@@ -68,12 +69,14 @@ td{
 .right {
     width: 155px;
     background-color: rgb(230,222,222);
+    /* height: 350px; */
 }
 .rightTitle{
     margin-top: 0;
     background-color: rgb(189,189,189);
     text-align: center;
     font-size: 18px;
+    
 }
 .line{
     color: rgb(189,189,189);
@@ -83,7 +86,7 @@ td{
 }
 .hr {
     width: 50%;
-    margin: auto;
+    
 }
 .righttext{
     font-size: 18px;
@@ -97,3 +100,6 @@ td{
     background-color: rgb(233,91,17);
 }
 
+article {
+    /* height: 400px; */
+}
