@@ -12,6 +12,6 @@ task-02
 leaaon-03
 task-01
 lesson-04
-*task-01: https://github.com/juliamilway/hometask/lesson-04/task-01_simple
+*task-01: https://github.com/juliamilway/hometask/lesson-04/task-01_simple/index.html
 
 task-02
