@@ -1,13 +1,13 @@
 ## lesson-01
 * task-01: 
-https://github.com/juliamilway/hometask/Lesson-01/index.html
+ https://juliamilway.github.io/hometask/Lesson-01/index.html
 
 * task-02:
 
 
 ## lesson-02
 * task-01:
-https://github.com/juliamilway/hometask/lesson-02/index_0.html
+ https://juliamilway.github.io/hometask/lesson-02/index_0.html
 
 * task-02:
 
