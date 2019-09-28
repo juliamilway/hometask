@@ -3,7 +3,7 @@
  https://juliamilway.github.io/hometask/Lesson-01/index.html
 
 * task-02:
- https://juliamilway.github.io/hometask/Lesson-01/index_1.html
+ 
 
 ## lesson-02
 * task-01:
