@@ -24,5 +24,5 @@ https://juliamilway.github.io/hometask/lesson-04/task-01_simple/index.html
 https://juliamilway.github.io/hometask/lesson-04/task-02_hard/index.html
 
 ## lesson-05
-* https://juliamilway.github.io/hometask/lesson-05/index.html
+* https://juliamilway.github.io/hometask/tree/master/lesson-05
 
