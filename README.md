@@ -26,3 +26,7 @@ https://juliamilway.github.io/hometask/lesson-04/task-02_hard/index.html
 ## lesson-05
 * https://juliamilway.github.io/hometask/lesson-05/index.html
 
+## lesson-06
+* task-01:
+https://juliamilway.github.io/hometask/lesson-06/index.html
+
