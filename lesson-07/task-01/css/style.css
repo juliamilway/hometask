@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    font-size: 0;
+    background-color: #f7f7f7;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+
+.item   {
+    width: 25%;
+    text-align: center;
+    height: 500px;
+    display: inline-block;
+    font-size: 14pt;
+    overflow: hidden;
+    border: solid 1px #c6c3c3;
+
+}
+
+ .icon {
+    
+    text-align: center;
+    height: 160px;
+    vertical-align: middle;
+ }
+.helper {
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+svg {
+    vertical-align: middle;
+    width: 69px;
+    height: 69px;
+}
+div>p {
+    text-transform: uppercase;
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+p {
+    margin-top: 33px;
+}
+
+.item:hover {
+    background-color: #0ec8cb;
+    color: #fff;
+}
+
+.item:hover path {
+    fill: #fff;
+}
