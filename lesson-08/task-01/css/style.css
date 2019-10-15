@@ -1,0 +1,80 @@
+/* @font-face kit by Fonts2u (https://fonts2u.com) */
+@font-face {
+    font-family:"Miso";
+    src: url("miso.eot?") format("eot"),url("miso.woff") format("woff"),url("miso.ttf") format("truetype"),url("miso.svg#Miso") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato/lato.rtf");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    justify-items: center;
+    align-items: center;
+    width: 1200px;
+    height: 600px;
+    background-color: #fdde7e;
+    padding: 30px 0 10px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    background-color: #ffff;  
+}
+
+.price {
+    font-family: "Miso";
+    font-size: 70px;
+    font-weight: bold;
+    color: #02995b;
+}
+
+.title {
+    font-family: "Miso";
+    font-size: 55px;
+}
+
+.paragraph {
+    text-align: center;
+    font-family: "Lato";
+    font-size: 20px;
+    color: #4e4e4e;
+}
+
+.item_high {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    width: 359px;
+    height: 502px;
+    background-color: #fff;
+}
+ .item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    background-color: #fff; 
+ }
