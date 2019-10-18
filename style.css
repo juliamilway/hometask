@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+}
+
+.wrapper {
+    background-color: #5da2e8;
+    width: 400px;
+    height: 300px;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.picture {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -1/2 width;
+    margin-top: -1/2 height;
+}
