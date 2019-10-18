@@ -29,68 +29,75 @@
 .list {
     display: flex;
     flex-flow: row wrap;
-    padding: 15px;
+    padding: 10px 10px;
     list-style-type: none;
 
 }
+.item {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 33%;
+    max-width: 33%;
+}
 
 .insider {
+    padding: 10px;
+    background-color: #ffffff;
+    flex-direction: column;
+    box-shadow: inset 0 0 0 10px #e2e7ec;
+}
+.bg_1 {
     padding: 20px 20px;
-    align-items: stretch;
 }
 
 .bg_item {
     display: flex;
     flex: 2 0 66%;
     max-width: 66%;
-    background-image: url(../img/red_car.png);
+    background-image: url(../img/red_car.png),
+    url(../img/red_car.png);
     background-size: cover;
+
+    background-blend-mode: multiply;
     background-position: center;
     background-repeat: no-repeat;
     align-items: flex-end;
+
+    box-shadow: inset 0 0 0 10px #e2e7ec;
  }
 
-.item {
-    display: flex;
-    flex-direction: column;
-    flex: 1 0 33%;
-    max-width: 33%;
-    background-color: #fff;
-    
-}
-
 .text {
-    display: flex;
     justify-content: flex-end;
 
 }
 
 .single_txt {
-    /* display: flex;
-    justify-content: flex-start; */
     font-size: 13px;
-    width: 100%;
+    padding: 10px 30px;
     font-family: HansKenricks Medium;
-    color: #a3a3a3;
+    color: #07080a;
 }
 
 .description {
-    /* display: flex; */
-    /* width: 100%; */
     font-family: HansKenrick Heavy;
     font-size: 30px;
     color: #ffffff;
 }
 
 .multi-line_txt {
-    display: flex; 
+    padding: 30px 30px;
     font-family: HansKendrick Heavy;
     font-size: 22px;
     color: #1d1d1d;
+
 }
 
 .picture {
     max-width: 100%;
 }
 
+.bottom_logo {
+    align-items: flex-end;
+    padding: 25px 25px;
+}
 
