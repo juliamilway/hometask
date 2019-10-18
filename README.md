@@ -39,3 +39,5 @@ https://juliamilway.github.io/hometask/lesson-07/task-02/index.html
 ## lesson-08
 * task-01
 https://juliamilway.github.io/hometask/lesson-08/task-01/index.html
+* task-02
+https://juliamilway.github.io/hometask/lesson-08/task-02/index.html
