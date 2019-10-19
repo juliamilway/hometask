@@ -91,6 +91,10 @@ body {
     color: #1d1d1d;
 
 }
+.invisible_txt {
+    height: 0px;
+    padding: 20px 20px;
+}
 
 .picture {
     max-width: 100%;
