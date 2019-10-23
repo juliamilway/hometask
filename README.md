@@ -45,3 +45,11 @@ https://juliamilway.github.io/hometask/lesson-08/task-02/index.html
 ## lesson-09
 * task-01 
 https://juliamilway.github.io/hometask/lesson-09/task-01/index.html
+* task-02
+https://juliamilway.github.io/hometask/lesson-09/task-02/index.html
+
+## lesson-10
+* task-01
+https://juliamilway.github.io/hometask/lesson-10/task-01/index.html
+* task-02
+https://juliamilway.github.io/hometask/lesson-09/task-02/index.html
