@@ -52,4 +52,4 @@ https://juliamilway.github.io/hometask/lesson-09/task-02/index.html
 * task-01
 https://juliamilway.github.io/hometask/lesson-10/task-01/index.html
 * task-02
-https://juliamilway.github.io/hometask/lesson-09/task-02/index.html
+https://juliamilway.github.io/hometask/lesson-10/task-02/index.html
