@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+*, 
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(../maket-info/img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header_insert {
+    max-width: 350px;
+    text-align: center;
+}
+
+.header_title {
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.header_text {
+    max-width: 100%;
+}
+
+.main {
+    display: flex;
+}
+
+.input-fields {
+    
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin-top: 15px;
+
+}
+
+.input-1 {
+    background-color: rgba(0, 196, 196, 0.5);
+    font-size: 17px;
+}
+
