@@ -91,9 +91,11 @@ body {
     max-width: 270px;
 }
  
-i {
-    
-}
+/* .social_icon {
+    display: inline-block;
+    width: 45px;
+    height: 45px;   
+} */
 
 .social {
     position: absolute;
